@@ -19,5 +19,10 @@ Lo mismo con Emerald Launcher.
 Y les pido disculpas sinceramente si esto les molesta.
 <img width="1920" height="669" alt="banner" src="https://github.com/user-attachments/assets/28e7927b-c095-4d47-ab93-ac5b025ef685" />
 
+<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/f620f584-d0a7-465b-98f0-328815b0d839" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/21cfea28-e3da-47c7-944f-d542b89b1676" />
+
+
+
 
 
