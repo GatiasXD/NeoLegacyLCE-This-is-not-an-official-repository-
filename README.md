@@ -6,13 +6,17 @@ This project is not mine.
 
 And I sincerely apologize if this bothers you.
 
+It's the same for Emerald Launcher
+
 Español.-
 Este no es un repositorio oficial; es solo una forma de obtenerlo, por lo que se eliminará cuando neoStudio vuelva a distribuir neoLegacy. Si eres de neoStudio y te molesta, contáctame y lo eliminaré.
 
 Este proyecto no es mío.
 
-Y les pido disculpas sinceramente si esto les molesta.
+Lo mismo con Emerald Launcher.
 
+
+Y les pido disculpas sinceramente si esto les molesta.
 <img width="1920" height="669" alt="banner" src="https://github.com/user-attachments/assets/28e7927b-c095-4d47-ab93-ac5b025ef685" />
 
 
